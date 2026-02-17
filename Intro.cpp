@@ -1,10 +1,7 @@
-#include <iostream>  //Iostream is a header file that contain functions                    
-                    // for basic input and output
+#include <iostream>
     int main(){
-        std::cout << "Hiie Bro" << std::endl;
-        std::cout << "Its reallly Good" << std::endl;
+        std::cout << "My Name is Arpit Sharma" << "\n";
+        std::cout << "Iam from Palampur"<< "\n";
+        std::cout << "Iam 23 Years Old"<< "\n";
         return 0;
     }
-
-
-
