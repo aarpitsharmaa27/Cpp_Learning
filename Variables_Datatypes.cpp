@@ -60,7 +60,7 @@ int main(){
     std::cout << "Hello" << name << "\n";
     std::cout << "Hello " << name << "\n";  // For Spacing
     std::cout<< "My age is  "<< age<< "\n";
-    std::cout << "MY Hometown is " << hometown <<"\n";
+    std::cout << "My Hometown is " << hometown <<"\n";
 
 
     return 0;
