@@ -73,7 +73,7 @@ int main(){
     std :: cout << "Remainder is " << y << "\n";
     
     
-    // POMDAS
+    // POMDAS Rule
 
     double group = 400 - 10 * (35 / 523) + 5 * (23- 34) - 3.34*3 ;
     std :: cout << "Members in Group are " << group << "\n";
