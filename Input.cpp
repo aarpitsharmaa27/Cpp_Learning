@@ -18,12 +18,13 @@ int main(){
     std :: string Full_name ;
     int y;
     std :: cout << "Enter you Full name : " ;
-    \
-    std :: getline (std::cin >> std :: ws,Full_name);
+    
+    std :: getline (std::cin >> std :: ws ,Full_name);      // This function
 
  
     std :: cout << "Enter you Age : " ;
     std :: cin >> y;
     
+    std :: cout << "My Full Name is " << Full_name << "My Age is " << y ;
     return 0 ;  
 }
