@@ -1,24 +1,19 @@
 #include <iostream>
-
-int main(){
-
-    std :: string name;
-    std :: cout << "What's your name : " ;
-    std:: cin >>  name;
-
-    std :: cout << "Hello " << name << "\n";
-    
-    int x;
-    int y ;
-    
-    std :: cout << "Enter first number : " ;
-    std :: cin >> x;
-    std :: cout << "Enter second numbe : " ;
-    
-    std :: cin >> y;
-    int z = x + y;
-
-    std :: cout << "Sum of x and y is : " << z ;
-    
-    return 0;
-}
+    int main(){
+        std::cout<< "My name is Arpit"<<"\n";
+        
+        std::string Name;
+        std::cout << "Enter your name :";
+        std::cin >> Name;
+        
+        int x ;
+        int y ;
+        
+        std::cout << "Enter first number :";
+        std::cin >> x;
+        std::cout << "Enter second number :";
+        std::cin >> y;
+        std::cout << "Sum of two number is "<< x + y;
+        
+        return 0;
+    }

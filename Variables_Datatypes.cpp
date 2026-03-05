@@ -44,7 +44,7 @@ int main(){
     // Boolean ( True or False)
 
     bool student = true;
-    bool power = false;zjkk
+    bool power = false;
     bool forsale = true;
 
 
